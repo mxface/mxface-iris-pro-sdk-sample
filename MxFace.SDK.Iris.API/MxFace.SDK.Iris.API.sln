@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MxFace.SDK.Iris.API", "MxFace.SDK.Iris.API\MxFace.SDK.Iris.API.csproj", "{58C6363B-D564-4686-A9A0-981687EF9A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MxFace.Iris.Shared", "MxFace.Iris.Shared\MxFace.Iris.Shared.csproj", "{8B37462B-390A-4D5D-BCAB-69C382ED5562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C6363B-D564-4686-A9A0-981687EF9A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C6363B-D564-4686-A9A0-981687EF9A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C6363B-D564-4686-A9A0-981687EF9A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C6363B-D564-4686-A9A0-981687EF9A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B37462B-390A-4D5D-BCAB-69C382ED5562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B37462B-390A-4D5D-BCAB-69C382ED5562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B37462B-390A-4D5D-BCAB-69C382ED5562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B37462B-390A-4D5D-BCAB-69C382ED5562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B697F46B-4E99-484F-85F8-AECD6D2A727C}
+	EndGlobalSection
+EndGlobal

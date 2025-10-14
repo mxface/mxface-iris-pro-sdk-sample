@@ -1,0 +1,6 @@
+@MxFace.SDK.Iris.API_HostAddress = http://localhost:5084
+
+GET {{MxFace.SDK.Iris.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
